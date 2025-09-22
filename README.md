@@ -1,5 +1,7 @@
 CSAW 2025 Embedded Security Challenge (ESC)
 ===========================================
+## Qualification Report deadline extended to *26 September 2025*
+
 ## Quick Links
 
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/deliverables.md)
