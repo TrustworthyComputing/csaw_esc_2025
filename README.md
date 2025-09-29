@@ -13,7 +13,7 @@ CSAW 2025 Embedded Security Challenge (ESC)
 
 The Embedded Security Challenge (ESC) returns in 2025 for the 18<sup>th</sup> time, and we are proud to announce another exciting and educational global competition! ESC is part of [CSAW](https://www.csaw.io/), which is founded by the department of Computer Science and Engineering at NYU Tandon School of Engineering, and is the most comprehensive student-run cyber security event in the world, featuring international competitions, workshops, and industry events.
 
-ESC 2025 will be held in multiple regions: US-Canada, Europe, and India, with the finals taking place on November 2025.
+ESC 2025 will be held in multiple regions: US-Canada, Europe, and India, with the finals taking place on November 2025. The organizers for each region are:
 
 -   **CSAW US-Canada**: NYU Tandon School of Engineering, Brooklyn, USA.
 -   **CSAW Europe**: Grenoble Institute of Technology - ESISAR, Grenoble, France.
