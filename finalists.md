@@ -14,7 +14,8 @@ The following teams have qualified to the final round (in random order):
 - HackerHens, **Pomona College, Pitzer College**: Neil Chulani, Luke Feng, Drew Goldman, Black Bothmer, (Advisor: Samuel Thomas)
 - ChainVisor, **Purdue University**: Evan English, Tarek Salama, Sam Guber, Sebastian Toro, (Advisor: Santiago Torres-Arias)
 - Buzz Overflow, **Georgia Institute of Technology**: Joshua Wang, Zi Lin, Alan Zheng, Mahir Riki, Smit Patel (Advisor: Kevin Thompson)
-- Helluva Hacker, **Georgia Institute of Technology**: Lindsay Estrella, Kian Esmaeili, Tony Tanory, David Kim, (Advisor: Lindsay Estrella)
+- Helluva Hacker, **Georgia Institute of Technology**: Lindsay Estrella, Kian Esmaeili, Tony Tanory, David Kim, (Advisor: Jackson Bush)
+- Team Parallax, **Texas A&M University**: Satota Mandal, Kevin Tieu, Matthew DeLorenzo, Nicholas Heinrich-Barna, (Advisor: Jeyavijayan Rajendran)
 
 
 ## India:
