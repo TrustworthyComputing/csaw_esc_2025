@@ -3,6 +3,7 @@
 ## 1) Qualification Phase
 
 For the qualification phase, each participating team must upload **a short written report** to the [HotCRP system](https://hotcrp.engineering.nyu.edu/) in PDF file format following the standard IEEE conference format (10pt font, double column, letter size paper, not compsoc mode); templates are available [here](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) (LaTeX template is preferred). The qualification phase PDF report can be **up to 2 pages**, excluding references.
+
 ## 2) Final Phase
 
 For the competition phase, each participating team must upload **a final report** to
@@ -21,7 +22,7 @@ similar service and provide access only to the challenge organizers.
 
 Lastly, teams should **create a 36x24in poster and a 7-minute powerpoint presentation
 to be in-person**
-during the live finals that take place on November 12-15. Teams are responsible to bring their printed poster to the finals.
+during the live finals that take place on **November 5-7**. Teams are responsible to bring their printed poster to the finals.
 
 The report, powerpoint and poster presentations should include a description of your setup and tools that you used, a brief overview of the challenges and a detailed account of how you solved the challenges. The report is expected to provide details an all challenges, including any challenge flags and sample inputs used to get the flag. The powerpoint and poster can focus on a subset of challenges that best show your ingeinuity. All materials must be in English.
 
