@@ -3,6 +3,7 @@ CSAW 2025 Embedded Security Challenge (ESC)
 
 ## Quick Links
 
+* [Challenge Set 1 Released](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/challenges/set1/)
 * [ChipWhisperer Docs/Installation](https://chipwhisperer.readthedocs.io/en/latest/)
 * [Finalists Announced](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/finalists.md)
 * [Deliverables](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/deliverables.md)
