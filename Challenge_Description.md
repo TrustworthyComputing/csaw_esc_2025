@@ -24,13 +24,13 @@ Qualification phase reports will be evaluated by a team of experts, and will tak
 ## Final Phase Evaluation and Grading Policies
 
 The final phase will be graded as follows:
-- 30% of the final score will be **correctness**. The points awarded in this section are based on successfully finding, exploiting, and  mitigating the provided challenges and depend on the difficulty of each challenge. The awarded points will be determined systematically by the global organizers and the expert judges.
-- 20% of the final score will be **AI integration**. This portion of the score is awarded by the panel of expert judge for the creative and effective use of AI/ML/LLM tools to assist or automate the discovery, exploitation, and/or mitigation of vulnerabilities.
+- 30% of the final score will be **correctness**. The points awarded in this section are based on successfully finding, exploiting, and  mitigating the provided challenges and depend on the difficulty of each challenge. The awarded points will be determined systematically by the global organizers and the expert judges. Partial solutions will not receive technical credit but may hold weight with the judges.
+- 20% of the final score will be **AI integration**. This portion of the score is awarded by the panel of expert judge for the creative and effective use of AI/ML/LLM tools to assist or automate the discovery, exploitation, reduction of queries, and/or mitigation of vulnerabilities.
 - 20% of the score will be **performance** and **efficiency**. Performance will be evaluated by the panel of expert judges and will encompass the techniques that the participants utilize to address the challenges. The metrics include, but are not limited to:
     - Effectiveness of proposed attacks
-    - Repeatability and creativity
+    - Efficiency (number of attempts/queries), repeatability, and creativity
     - Automation of attacks
-- 30% of the score will be the **quality** of the final deliverables (report, judges presentation, poster). The final deliverables will be graded by the judges panel based on organization, clearness of presentation, and detail of explanations.
+- 30% of the score will be the **quality** of the final deliverables (report, judges' presentation, poster). The final deliverables will be graded by the judges panel based on organization, clearness of presentation, and detail of explanations.
 
 **Note:
 Solutions that involve reverse engineering of the flag from provided binaries, ROP programming or modification of provided hex files will not be accepted.**
