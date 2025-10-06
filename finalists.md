@@ -22,7 +22,7 @@ The following teams have qualified to the final round (in random order):
 - exploiitm, **Indian Institute of Technology, Madras**: Arivoli Ramamoorthy, Abhinav I S, Nithin Ken Maran, Sanjeev Subrahmaniyan, (Advisor: Chester Rebeiro)
 - Cryptonite, **Manipal Institute of Technology, Manipal**: Krish Pandey, Anshuman Shukla, Aryan Saraf, Venkataraman Seshadri, (Advisor: Mukund Kumar Menon)
 - FossilizedPluto, **Indian Institute of Technology, Roorkee**: Daksh Pandey, (Advisor: Sparsh Mittal)
-- SegFault Squad, **Indian Institute of Technology, Kanpur**:  Jugal Pahuja, Daksh Gupta, Sahil Agarwal, Shubham Sahay, (Advisor: Ananthan R,)
+- SegFault Squad, **Indian Institute of Technology, Kanpur**:  Jugal Pahuja, Daksh Gupta, Sahil Agarwal, Ananthan R., (Advisor: Shubham Sahay)
 - PARSE, **Indian Institute of Technology, Dharwad**: Samarth M, Arjun Gangwar, Aaditya Kumar, Piyush Singh, (Advisor: Rajshekar K)
 - KattangalSec, **National Institute of Technology Calicut**: Mohammed Rehan Tadpatri, Mohammed Omar, Sahil Muhammed, Mosus Mohammed P K, (Advisor: Hiran V. Nath)
 
