@@ -37,7 +37,7 @@ uint8_t arm_system(uint8_t* data, uint8_t dlen) {
     int* user_sequence = (int*)data;
 
     for (int i = 0; i < SEQUENCE_LENGTH; i++) {
-        if (secret_ignition_sequence[i] != user_sequence[i]) 
+        if (secret_ignition_sequence[i] == user_sequence[i]) 
 	{
             match_count ++ ;
         }
