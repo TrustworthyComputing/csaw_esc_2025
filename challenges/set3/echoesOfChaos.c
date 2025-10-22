@@ -115,7 +115,7 @@ uint8_t check_arr(uint8_t* arr, uint8_t len)
 uint8_t get_pt(uint8_t* pt, uint8_t len)
 {
     uint8_t ret = 0;
-    uint8_t elements_to_skip = pt[2] ; 
+    uint8_t elements_to_skip = pt[3] ; 
     if(queries == 0){ initialize_original_arr(); }
     if(is_sorted == 0)
     { 
