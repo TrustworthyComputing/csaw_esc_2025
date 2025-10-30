@@ -1,6 +1,8 @@
 CSAW 2025 Embedded Security Challenge (ESC)
 ===========================================
 
+## Reminder: Final Report Due (for all regions): 3 Nov 2025 11:59:59pm eastern time US
+
 ## Quick Links
 
 * [Final Challenge Released](https://github.com/TrustworthyComputing/csaw_esc_2025/blob/main/challenges/set3/)
