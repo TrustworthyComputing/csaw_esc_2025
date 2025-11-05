@@ -144,3 +144,7 @@
 - **Starting at 9:00 AM**
   - **Location**: 370 Jay Street, 10th Floor
   - **Event**: US-Canada Award Ceremonies for all competitions; Breakfast
+ 
+- **12:00 PM**
+  - **Location**: 370 Jay Street, 10th Floor
+  - **Event**: Debrief Meeting for CSAW Organizers/Leads
