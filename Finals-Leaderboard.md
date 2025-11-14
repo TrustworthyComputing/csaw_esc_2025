@@ -43,3 +43,24 @@
 * Sanjeev Subrahmaniyan S B
 * Advisor: Chester Rebeiro
 
+## ESC 2025 Europe Leaderboard
+
+### 1st Place: __The Roman Xpl0it__ - Sapienza University of Rome in Italy, University of Verona, Luiss University of Rome
+
+* Kristjan Tarantelli
+* Francesco Bianchi
+* Simone Di Maria
+* Federico Angelilli
+* Advisor: Emilio Coppa
+
+### 2nd Place: __Th3Os__ - University of Piraeus
+* Ilias Fiotakis
+* Vassilis Ananiadis
+* Meletis Michail
+* Edward Pasenidis
+* Advisor: Athanasios Papadimitriou
+
+### 3rd Place: __Meowginal Leaks__ - CISPA Helmholtz Center for Information Security in Germany
+* Pouya Narimani
+* Kseniia Rogova
+* Advisor: Ali Abbasi
